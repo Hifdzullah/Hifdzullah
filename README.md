@@ -1,6 +1,7 @@
 ### Hi there, 👋
 <!-- - My portfolio: https://hifdzullah.github.io/hifdzullahmatali.io/ -->
-- My porfolio: https://hifdzullahportfolio.netlify.app
+ https://hifdzullahportfolio.netlify.app
+- Visit my profile page:
 <!--
 
 
