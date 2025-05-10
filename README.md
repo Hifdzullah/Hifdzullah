@@ -1,7 +1,7 @@
 ### Hi there, 👋
-<!-- On update -->
+<!-- under update -->
 <!--  https://hifdzullahportfolio.netlify.app -->
-- Visit my profile page: On Maintenance 
+- Visit my profile page: Under Maintenance 
 <!-- Visit my personal project : https://rescuemenodejsdb.herokuapp.com/-->
 <!--
 
